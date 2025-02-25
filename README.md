@@ -1,16 +1,23 @@
-## Hi there 👋
+nadeeshafdo/README.md
+Hello there 👋, I'm Nadeesha Fernando! 😏🚀
+🌟 About Me
+I'm an undergraduate student from Sri Lanka, passionate about technology and software development. My coding journey spans multiple programming languages and technologies, with a keen interest in creating innovative solutions.
 
-<!--
-**VinuraImalka/VinuraImalka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 Let's Connect!
+LinkedIn Facebook Instagram Twitter Spotify
 
-Here are some ideas to get you started:
+💻 Tech Stack
+Languages
+HTML5 CSS3 JavaScript Python Java PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies & Tools
+SASS SQL Visual Basic React.JS Spring Boot Node.JS Next.JS
+
+🏆 GitHub Trophies
+GitHub Trophies
+
+📊 My GitHub Stats Profile views
+Top Languages GitHub Stats GitHub Streak
+
+📈 Contribution Graph
+Contribution Graph
