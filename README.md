@@ -4,7 +4,7 @@
 I'm a second-year Software Engineering student at the Institute of Technology in Sri Lanka (ITT). Passionate about software development, I enjoy working with various technologies to build innovative and efficient solutions.  
 
 ## 🔗 Let's Connect!  
-[LinkedIn]((https://www.linkedin.com/in/vinura-imalka-549251296/))   
+[LinkedIn]((https://www.linkedin.com/in/VinuraImalka-549251296/))   
 
 ## 💻 Tech Stack  
 
@@ -27,12 +27,12 @@ I'm a second-year Software Engineering student at the Institute of Technology in
 - Docker  
 
 ## 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vinura-imalka&theme=darkhub)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=VinuraImalka&theme=darkhub)  
 
 ## 📊 My GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinura-imalka&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinura-imalka&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinura-imalka&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinuraImalka&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinuraImalka&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VinuraImalka&theme=radical)  
 
 ## 📈 Contribution Graph  
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=vinura-imalka&theme=github)  
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=VinuraImalka&theme=github)  
