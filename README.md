@@ -1,7 +1,7 @@
 # Hello there 👋, I'm Vinura Imalka! 😏🚀  
 
 ## 🌟 About Me  
-I'm a second-year Software Engineering student at the Institute of Technology in Sri Lanka (ITT). Passionate about software development, I enjoy working with various technologies to build innovative and efficient solutions.  
+I'm a second-year Software Engineering student at the Institute of Technology in Sri Lanka (IIT). Passionate about software development, I enjoy working with various technologies to build innovative and efficient solutions.  
 
 ## 🔗 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/vinura-imalka-549251296/))   
