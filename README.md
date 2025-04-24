@@ -4,8 +4,9 @@
 I'm a second-year Software Engineering student at the Institute of Technology in Sri Lanka (IIT). Passionate about software development, I enjoy working with various technologies to build innovative and efficient solutions.  
 
 ## 🔗 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/vinura-imalka-549251296/))   
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=web)](https://YOUR-PORTFOLIO)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vinura-imalka-549251296/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=firefox-browser)](https://YOUR-PORTFOLIO)
+
 📧 Email: **vinuraimalka01@gmail.com**  
 
 ## 💻 Tech Stack  
