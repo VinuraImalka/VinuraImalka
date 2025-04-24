@@ -35,10 +35,6 @@ I'm a second-year Software Engineering student at the Institute of Technology in
 ## 📊 My GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinuraImalka&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinuraImalka&layout=compact&theme=radical)  
-![GitHub Streak](https://img.shields.io/badge/GitHub_Streak-Active-red?style=for-the-badge&logo=github)
-
-
-![Vinura's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinuraImalka&show_icons=true&theme=radical)
 
 ## 📈 Contribution Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=VinuraImalka&theme=github)
