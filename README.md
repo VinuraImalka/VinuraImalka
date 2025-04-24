@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Vinura Imalka! 😏🚀  
+# Hello there 👋, I'm Vinura Imalka! 🚀  
 
 ## 🌟 About Me  
 I'm a second-year Software Engineering student at the Institute of Technology in Sri Lanka (IIT). Passionate about software development, I enjoy working with various technologies to build innovative and efficient solutions.  
@@ -35,7 +35,8 @@ I'm a second-year Software Engineering student at the Institute of Technology in
 ## 📊 My GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinuraImalka&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinuraImalka&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VinuraImalka&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=VinuraImalka&theme=radical)
 
 ## 📈 Contribution Graph  
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=VinuraImalka&theme=github)  
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=VinuraImalka&theme=github)
+
